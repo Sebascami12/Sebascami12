@@ -1,0 +1,1 @@
+- workspace["hayaxcc2"].HumanoidRootPart.CFrame = workspace.Dummy.Torso.CFrame
